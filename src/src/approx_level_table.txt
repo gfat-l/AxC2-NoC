@@ -1,0 +1,10 @@
+Convolution  0 2 2 2 2 2
+Pooling 0 2 2 3 3 3
+Convolution 0 2 3 2 2 3
+Pooling 0 2 3 3 3 3
+Convolution 0 2 2 2 3 2
+Convolution 0 2 3 3 2 2
+Convolution 0 2 3 3 3 3
+Pooling 0 2 3 3 3 3
+Dense 0 2 3 3 3 3
+Dense 0 2 3 3 3 3
